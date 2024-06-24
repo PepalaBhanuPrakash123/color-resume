@@ -1,0 +1,35 @@
+body {background-color:wheat;}
+h1 {color: orangered;}
+.tech{
+    color: darkred;
+}
+h2{
+color: darkblue;
+}
+#personal{
+color: salmon;
+}
+#declar{
+color: darkgoldenrod;
+}
+#email {
+color: gold;
+}
+#mobile{
+color: darkorange;
+}
+#list{
+color: violet;
+}
+.ul{
+color: lime;
+}
+pre{
+    color: darkcyan;
+}
+#para{
+    color: darkred;
+}
+#info{
+    color: firebrick;
+}
